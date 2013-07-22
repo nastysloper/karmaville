@@ -12,3 +12,7 @@ $ rake db:setup
 ```
 
 The `rake db:setup` command could take several minutes to run.
+
+1. No idea. I'm seeing add_index and new classes, but I don't know why.
+2. It looks like people are summing karma points and adding that to the users table, 
+which is the only thing that makes sense to me.
